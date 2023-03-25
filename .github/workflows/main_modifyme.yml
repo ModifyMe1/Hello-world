@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Modifyme'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_09A63FA2CE0849738421D64700E23684 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6E7A952647F540E4AE02578456066BC9 }}
           package: .
